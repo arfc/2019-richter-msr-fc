@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="msbrfuelproc.svg">
+  <defs
+     id="defs10356" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="400"
+     inkscape:cy="278.40951"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid14862" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10359">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14311"
+       width="663"
+       height="531"
+       x="45"
+       y="56" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="50"
+       y="42"
+       id="text14858"><tspan
+         sodipodi:role="line"
+         id="tspan14856"
+         x="50"
+         y="42">Fuel Processing Unit</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60,110 c 70,0 70,0 70,0 -10,10 -10,10 -10,10"
+       id="path14864"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 130,110 C 120,100 120,100 120,100"
+       id="path14866"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130,110 c 80,0 60,0 60,0"
+       id="path14870"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="58.585785"
+       y="130.6066"
+       id="text14876"><tspan
+         sodipodi:role="line"
+         id="tspan14874"
+         x="58.585785"
+         y="130.6066">3 gal/min</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="487.08536"
+       y="95.757355"
+       id="text14880"><tspan
+         sodipodi:role="line"
+         x="487.08536"
+         y="95.757355"
+         id="tspan14882">Reduction </tspan><tspan
+         sodipodi:role="line"
+         x="487.08536"
+         y="114.0907"
+         id="tspan14896">extraction</tspan><tspan
+         sodipodi:role="line"
+         x="487.08536"
+         y="132.42401"
+         id="tspan14886">using bismuth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="280"
+       y="100"
+       id="text14890"><tspan
+         sodipodi:role="line"
+         id="tspan14888"
+         x="280"
+         y="100"> </tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14898"
+       width="290"
+       height="280"
+       x="190"
+       y="80" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95742708px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 190,110 c 220,0 220,0 220,0"
+       id="path14900"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:1;fill:#21ddff;fill-opacity:0.5940367;fill-rule:nonzero;stroke:#000000;stroke-width:4.59966516;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path14902"
+       cx="259.54416"
+       cy="212.2236"
+       rx="44.700169"
+       ry="59.902962" />
+    <ellipse
+       style="opacity:1;fill:#39b36c;fill-opacity:0.5940367;fill-rule:nonzero;stroke:#000000;stroke-width:4.53422117;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path14902-0"
+       cx="410"
+       cy="211.21321"
+       rx="44.732891"
+       ry="58.167919" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260,150 c 0,-40 0,-40 0,-40"
+       id="path14922"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410,150 c 0,-40 0,-40 0,-40"
+       id="path14924"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 260,140 C 250,130 250,130 250,130"
+       id="path14926"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 270,130 c -10,10 -10,10 -10,10"
+       id="path14928"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 400,130 c 10,10 10,10 10,10"
+       id="path14930"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 420,130 c -10,10 -10,10 -10,10"
+       id="path14932"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="220.80762"
+       y="206.87006"
+       id="text14938"><tspan
+         sodipodi:role="line"
+         x="220.80762"
+         y="206.87006"
+         id="tspan14940">Pa removal</tspan><tspan
+         sodipodi:role="line"
+         x="220.80762"
+         y="223.53673"
+         id="tspan14944">3 day cycle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       x="370.10049"
+       y="198.48528"
+       id="text14948"><tspan
+         sodipodi:role="line"
+         id="tspan14946"
+         x="370.10049"
+         y="198.48528">Rare earth</tspan><tspan
+         sodipodi:role="line"
+         x="370.10049"
+         y="215.15195"
+         id="tspan14950">removal</tspan><tspan
+         sodipodi:role="line"
+         x="370.10049"
+         y="231.8186"
+         id="tspan14952">50 day cycle</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260,270 v 90"
+       id="path14954"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410,270 c 0,90 0,90 0,90"
+       id="path14956"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 250,310 c 10,10 10,10 10,10"
+       id="path14958"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 270,310 c -10,10 -10,10 -10,10 v 0"
+       id="path14960"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 400,310 c 10,10 10,10 10,10"
+       id="path14962"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 420,310 c -10,10 -10,10 -10,10"
+       id="path14964"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 330,360 c 0,100 0,100 0,100 370,0 380,0 380,0"
+       id="path14966"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

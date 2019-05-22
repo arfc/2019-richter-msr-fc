@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="msbroffgas.svg">
+  <defs
+     id="defs14968" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="260.053"
+     inkscape:cy="314.39366"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid19472" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata14971">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect18923"
+       width="723"
+       height="550"
+       x="10"
+       y="20" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="49"
+       y="40"
+       id="text19470"><tspan
+         sodipodi:role="line"
+         id="tspan19468"
+         x="49"
+         y="40">Off-gas system</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20,70 c 80,0 80,0 80,0"
+       id="path19474"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90,60 c 10,10 10,10 10,10"
+       id="path19476"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 90,80 C 100,70 100,70 100,70"
+       id="path19478"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100,70 c 60,0 60,0 60,0"
+       id="path19484"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="18.786797"
+       y="96.36396"
+       id="text19488"><tspan
+         sodipodi:role="line"
+         id="tspan19486"
+         x="18.786797"
+         y="96.36396">10% of fuel </tspan><tspan
+         sodipodi:role="line"
+         x="18.786797"
+         y="113.03062"
+         id="tspan19490">from each pump</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19492"
+       width="130"
+       height="40"
+       x="160"
+       y="50" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="169.29289"
+       y="73.435028"
+       id="text19496"><tspan
+         sodipodi:role="line"
+         id="tspan19494"
+         x="169.29289"
+         y="73.435028">Gas Separator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       x="156.66548"
+       y="111.31371"
+       id="text19500"><tspan
+         sodipodi:role="line"
+         id="tspan19498"
+         x="156.66548"
+         y="111.31371"
+         style="font-size:12px">~100% efficiency</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 290,70 c 70,0 130,0 130,0"
+       id="path19506"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 280,90 c 0,50 0,50 0,50"
+       id="path19508"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 270,120 c 10,10 10,10 10,10"
+       id="path19510"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 290,120 c -10,10 -10,10 -10,10"
+       id="path19512"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19514"
+       width="80"
+       height="50"
+       x="240"
+       y="140" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="241.51472"
+       y="161.31371"
+       id="text19518"><tspan
+         sodipodi:role="line"
+         id="tspan19516"
+         x="241.51472"
+         y="161.31371">Entrainment</tspan><tspan
+         sodipodi:role="line"
+         x="241.51472"
+         y="176.31371"
+         id="tspan19520">Separator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="290"
+       y="110"
+       id="text19524"><tspan
+         sodipodi:role="line"
+         id="tspan19522"
+         x="290"
+         y="110"
+         style="font-size:12px">50/50 </tspan><tspan
+         sodipodi:role="line"
+         x="290"
+         y="128.33333"
+         id="tspan19526"
+         style="font-size:12px">salt and gas</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.34164083px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 240,160 c -90,0 -90,0 -90,0"
+       id="path19528"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 210,170 C 200,160 200,160 200,160"
+       id="path19530"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 210,150 c -10,10 -10,10 -10,10"
+       id="path19532"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="125.95837"
+       y="143.43503"
+       id="text19536"><tspan
+         sodipodi:role="line"
+         id="tspan19534"
+         x="125.95837"
+         y="143.43503">Salt to pump bowl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="310"
+       y="58.485283"
+       id="text19540"><tspan
+         sodipodi:role="line"
+         id="tspan19538"
+         x="310"
+         y="58.485283">Mainline of salt</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19542"
+       width="140"
+       height="50"
+       x="420"
+       y="50" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="430"
+       y="76.263458"
+       id="text19546"><tspan
+         sodipodi:role="line"
+         id="tspan19544"
+         x="430"
+         y="76.263458">Bubble Generator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="567.87866"
+       y="70.606606"
+       id="text19550"><tspan
+         sodipodi:role="line"
+         id="tspan19548"
+         x="567.87866"
+         y="70.606606">0.5% vol fraction</tspan><tspan
+         sodipodi:role="line"
+         x="567.87866"
+         y="87.27327"
+         id="tspan19552">He gas in salt</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 540,100 v 60"
+       id="path19554"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 440,160 c 100,0 100,0 100,0"
+       id="path19556"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 490,150 c -10,10 -10,10 -10,10"
+       id="path19558"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 490,170 c -10,-10 -10,-10 -10,-10 v 0"
+       id="path19560"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="425.15076"
+       y="142.72792"
+       id="text19564"><tspan
+         sodipodi:role="line"
+         id="tspan19562"
+         x="425.15076"
+         y="142.72792">Salt to pump bowl</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 300,190 c 0,40 0,40 0,40"
+       id="path19566"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19594"
+       width="80"
+       height="70"
+       x="260"
+       y="230" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 340,240 h 130 v 0 c 130,0 130,0 130,0"
+       id="path19596"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 520,240 c 0,50 0,50 0,50"
+       id="path19598"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 600,240 c 0,50 0,50 0,50"
+       id="path19600"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 510,260 10,10 10,-10"
+       id="path19602"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 590,260 10,10 10,-10"
+       id="path19604"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19606"
+       width="40"
+       height="60"
+       x="500"
+       y="290" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19608"
+       width="40"
+       height="60"
+       x="580"
+       y="290" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 240,210 c 40,0 40,0 40,0"
+       id="path19610"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 280,230 c 0,-20 0,-20 0,-20"
+       id="path19612"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 240,200 10,10 -10,10"
+       id="path19614"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="172.22183"
+       y="198.58578"
+       id="text19618"><tspan
+         sodipodi:role="line"
+         id="tspan19616"
+         x="172.22183"
+         y="198.58578">2scfm</tspan><tspan
+         sodipodi:role="line"
+         x="172.22183"
+         y="213.58578"
+         id="tspan19620">He from</tspan><tspan
+         sodipodi:role="line"
+         x="172.22183"
+         y="228.58578"
+         id="tspan19622">pump bowl</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 290,200 c 0,0 10,10 10,10 v 0 l 10,-10"
+       id="path19624"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="321.51471"
+       y="204.94975"
+       id="text19628"><tspan
+         sodipodi:role="line"
+         id="tspan19626"
+         x="321.51471"
+         y="204.94975">9 scfm</tspan><tspan
+         sodipodi:role="line"
+         x="321.51471"
+         y="219.94975"
+         id="tspan19630">from entrain.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 520,370 c 0,-20 0,-20 0,-20"
+       id="path19632"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 600,370 c 0,-20 0,-20 0,-20"
+       id="path19634"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 480,370 c 120,0 120,0 120,0"
+       id="path19636"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11803401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 430,340 c 50,0 50,0 50,0"
+       id="path19638"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 480,370 V 340"
+       id="path19640"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11803401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 430,420 h 50"
+       id="path19642"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 480,370 v 50"
+       id="path19644"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="437.17157"
+       y="439.50104"
+       id="text19648"><tspan
+         sodipodi:role="line"
+         id="tspan19646"
+         x="437.17157"
+         y="439.50104">2 scfm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="440"
+       y="328.88376"
+       id="text19652"><tspan
+         sodipodi:role="line"
+         id="tspan19650"
+         x="440"
+         y="328.88376">9 scfm</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 470,360 10,-10 10,10"
+       id="path19658"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 470,390 10,10 10,-10"
+       id="path19660"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19670"
+       width="90"
+       height="60"
+       x="340"
+       y="320" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.59403669;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19702"
+       width="90"
+       height="60"
+       x="340"
+       y="400" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="349.29288"
+       y="416.97415"
+       id="text19674"><tspan
+         sodipodi:role="line"
+         x="349.29288"
+         y="416.97415"
+         id="tspan19678">Decay and</tspan><tspan
+         sodipodi:role="line"
+         x="349.29288"
+         y="430.3075"
+         id="tspan19682">tritium</tspan><tspan
+         sodipodi:role="line"
+         x="349.29288"
+         y="443.64081"
+         id="tspan19684">removal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="351.41422"
+       y="337.7746"
+       id="text19688"><tspan
+         sodipodi:role="line"
+         id="tspan19686"
+         x="351.41422"
+         y="337.7746">Water </tspan><tspan
+         sodipodi:role="line"
+         x="351.41422"
+         y="352.7746"
+         id="tspan19692">detector</tspan><tspan
+         sodipodi:role="line"
+         x="351.41422"
+         y="367.7746"
+         id="tspan19690">&amp; trap</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 420,90 c -10,0 -10,0 -10,0"
+       id="path19698"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 400,170 10,-10 10,10 v 0"
+       id="path19700"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 410,230 V 90"
+       id="path19714"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410,250 v 70"
+       id="path19716"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410,230 c 5.39209,5.47827 19.52188,9.03077 0,20"
+       id="path19722"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 340,420 H 150"
+       id="path19724"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 210,410 -10,10 10,10 v 0"
+       id="path19726"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="221.1127"
+       y="394.84924"
+       id="text19730"><tspan
+         sodipodi:role="line"
+         id="tspan19728"
+         x="221.1127"
+         y="394.84924">To off-gas</tspan><tspan
+         sodipodi:role="line"
+         x="221.1127"
+         y="411.5159"
+         id="tspan19732">system</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="269.29291"
+       y="252.72792"
+       id="text19736"><tspan
+         sodipodi:role="line"
+         id="tspan19734"
+         x="269.29291"
+         y="252.72792">Particle</tspan><tspan
+         sodipodi:role="line"
+         x="269.29291"
+         y="271.06128"
+         id="tspan19738">trap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="628.58582"
+       y="309.09189"
+       id="text19742"><tspan
+         sodipodi:role="line"
+         id="tspan19740"
+         x="628.58582"
+         y="309.09189">Water-cooled</tspan><tspan
+         sodipodi:role="line"
+         x="628.58582"
+         y="324.09189"
+         id="tspan19744">charcoal</tspan><tspan
+         sodipodi:role="line"
+         x="628.58582"
+         y="339.09189"
+         id="tspan19746">beds</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       x="460"
+       y="230"
+       id="text19750"><tspan
+         sodipodi:role="line"
+         id="tspan19748"
+         x="460"
+         y="230">11 scfm</tspan></text>
+  </g>
+</svg>
