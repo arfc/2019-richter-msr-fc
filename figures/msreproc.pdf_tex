@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{548.34677875bp}%
+    \setlength{\unitlength}{559.35701022bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,20 +50,23 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.79356883)%
+  \begin{picture}(1,0.77585945)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{msreproc.pdf}}%
-    \put(0.01633919,0.44793117){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fuel Processing Cell\end{tabular}}}}%
+    \put(0.01657296,0.43797332){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fuel Processing Cell\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{msreproc.pdf}}%
-    \put(0.04386511,0.25037712){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fuel Storage Tank\end{tabular}}}}%
+    \put(0.04877166,0.24573004){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fuel Storage Tank\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{msreproc.pdf}}%
-    \put(0.6785,0.7783277){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\smash{\begin{tabular}[t]{l}Gas Supply Tanks\end{tabular}}}}%
+    \put(0.66380377,0.76091833){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\smash{\begin{tabular}[t]{l}Gas Supply Tanks\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{msreproc.pdf}}%
-    \put(0.66892577,0.49520394){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}High Temp Sodium\\Fluoride Absorber\end{tabular}}}}%
+    \put(0.75681354,0.46914591){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}High Temp Sodium\\Fluoride Absorber\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{msreproc.pdf}}%
-    \put(0.72637117,0.29414504){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Caustic\\Scrubber\end{tabular}}}}%
+    \put(0.75339739,0.27962942){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Caustic\\Scrubber\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{msreproc.pdf}}%
-    \put(0.76056486,0.0315375){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Portable UF6 Absorber\end{tabular}}}}%
+    \put(0.74425328,0.02882774){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Portable $UF_6$ Absorber\end{tabular}}}}%
+    \put(0.61989174,0.65784235){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gas A\end{tabular}}}}%
+    \put(0.71509033,0.65717196){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gas B\end{tabular}}}}%
+    \put(0.80945091,0.65733957){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Gas C\end{tabular}}}}%
   \end{picture}%
 \endgroup%
