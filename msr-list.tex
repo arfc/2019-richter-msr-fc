@@ -3,13 +3,13 @@
 \usepackage{verbatim}
 \usepackage{amssymb}
 \usepackage{graphicx}
+\usepackage{svg}
 \usepackage{longtable}
 \usepackage{amsfonts}
 \usepackage{amsmath}
 \usepackage{hyperref}
 \usepackage{float}
 \usepackage{caption}
-\usepackage{subcaption}
 \usepackage{xcolor}
 \def\thesection       {\arabic{section}}
 \def\thesubsection     {\thesection.\alph{subsection}}
@@ -44,6 +44,24 @@ The processing in an MSR can also vary.  After the general reactor designs have 
 
 \section{Molten Salt Reactor Experiment (MSRE)}
 This reactor is given as the first MSR design.  Technically, the Aircraft Reactor Experiment is its predecessor, however, given its unsuitability as a commercial reactor (and the focus of this report on such reactors) it is not included in detail here.  The MSRE has general characteristics, described thusly: \cite{robertson_msre_1965}
+\newpage
+Below, a test of including svg graphics as a latex file:
+\begin{figure}[H]
+  \centering
+  \includesvg[width=1.0\linewidth, svgpath = figures/]{msreproc}
+  \captionof{figure}{Diagram Using a Converted SVG File}
+  \label{fig:svg}
+  
+\end{figure}
+\newpage
+Below, a test using tikz:
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=1.0\linewidth]{figures/msretik.pdf}
+  \captionof{figure}{Diagram Using a Tikz PDF}
+  \label{fig:tikz}
+\end{figure}
+
 
 \begin{itemize}
 \item 10 MW
