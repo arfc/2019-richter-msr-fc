@@ -1,0 +1,11 @@
+// MSRE processing
+digraph "msre-proc" {
+	A [label="Fuel Processing Cell"]
+	B [label="Gas Supply Tanks"]
+	C [label="High Temp Sodium Fluoride Absorber"]
+	D [label="Caustic Scrubber"]
+	E [label="Portable UF6 Absorber"]
+	A -> B
+	A -> C
+	A -> D
+}
