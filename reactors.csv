@@ -1,8 +1,8 @@
 uid,reactor_name,institution,mw_th,mw_e,spectrum,fuel_mod_ratio,temp_in,temp_out,temp_avg,coolant,moderator,tertiary fluid,fuel_comp,pressure,circulating,reprocessing,he_sparging,tritium,fp_removal,continuous,online,diagram,references,notes
 shortname-size-[lf-spectrum-iso],,,,,,,,,,,,,1,,,"list_of_components,...",,,,,,,"firstauthorlastname_firstwordintitle_yyyy, ….. ",
 msre-10-lf-thermal,msre,ornl,10,n/a,thermal,22.4,1175F,1225F,n/a,LiFBeF2,graphite,n/a,"2,3,4",20psig,y,"salt storage/processing tank, supply tanks for H2, HF, and F2, a high temp (750f) sodiu fluoride absorber for UF6, caustic scrubber",n,n,y,n,n,,,all processing equipment except the UF6 absorbers are located in the fuel processing cell below the operating floor (fig 4.4)
-msbr-1000-lf-thermal,msbr,ornl,2250,1000,thermal,13,1050F,1300F,n/a,NaBF4-NaF,graphite,n/a,5,75psig,y,y,y,y,y,y,y,,,
-msdr-350-lf-thermal,msdt,ornl,750,350,thermal,10,1050F,1250F,n/a,7LiFBeF2,graphite,KNO3-NaNO2-NaNO3,6,n/a,y,y,y,hitec_tertiary_loop,y,n,n,,,
+msbr-1000-lf-thermal,msbr,ornl,2250,1000,thermal,13,1050F,1300F,n/a,NaBF4-NaF,graphite,n/a,5,75psig,y,"offgas: gas separator, bubble generator, entrainment separator, particle trap, water-cooled charcoal beds, water detector and trap, decay and tritium removal ; fuelproc: reduction/extraction with bismuth – rare earth removal and Pa removal",y,y,y,y,y,,,
+msdr-350-lf-thermal,msdt,ornl,750,350,thermal,10,1050F,1250F,n/a,7LiFBeF2,graphite,KNO3-NaNO2-NaNO3,6,n/a,y,"Tertiary hitec loop that generates steam/removes tritium, helium bubble sparger, centrifugal gas separator, drain tank, particle trap, charcoal beds",y,hitec_tertiary_loop,dump carrier salt every 8 years,n,n,,,
 dmsr-1000-lf-thermal,dmsr,ornl,2250,1000,thermal,20/12.94,566C,704C,n/a,7LiFBeF2,graphite,n/a,7*,n/a,y,n,y,n,y*,n,y,,,
 imsr-400-lf-thermal,imsr,terrestrial_energy_inc. ,400,188,thermal,n/a,647C,685C,n/a,fluoride_salt,graphite,n/a,fluoride_fuel_salt,0.4MPa,y,n,n,n,n,n,n,,,
 msfr-3000-lf-fast,msfr,INOPRO/IPNO,3000,1500,fast,100,625C,730C,675C,as_fuel,n/a,n/a,"8,9",n/a,y,y,y,n,y,y,y,,,
