@@ -6,4 +6,4 @@ msdr-350-lf-thermal,msdt,ornl,750,350,thermal,10,1050F,1250F,n/a,7LiFBeF2,graphi
 dmsr-1000-lf-thermal,dmsr,ornl,2250,1000,thermal,20/12.94,566C,704C,n/a,7LiFBeF2,graphite,n/a,7*,n/a,y,"helium sparging in a bypass loop, removal of oxygen contamination",y,n,y*,n,y,,,
 imsr-400-lf-thermal,imsr,terrestrial_energy_inc. ,400,188,thermal,n/a,647C,685C,n/a,fluoride_salt,graphite,n/a,fluoride_fuel_salt,0.4MPa,y,n,n,n,n,n,n,,,
 msfr-3000-lf-fast,msfr,INOPRO/IPNO,3000,1500,fast,100,625C,730C,675C,as_fuel,n/a,n/a,"8,9",n/a,y,"bubbling unit: bubble injector, separator, tank, filter, decay storage, pyrochemical unit: fluorination, reduction/extraction bismuth pool, lanthanide removal, hydrolysis, actinides put back",y,n,y,y,y,,,
-transatomic-520-lf-thermal,tap,TAP,1250,520,thermal,n/a,n/a,650C,n/a,FLiNak,zirconium_hydride,,10,,y,y,y,y,y,y,y,,,
+transatomic-520-lf-thermal,tap,TAP,1250,520,thermal,n/a,n/a,650C,n/a,FLiNak,zirconium_hydride,,10,,y,"Helium sparging, filtration, liquid metal extraction (table 1 of tech. White paper gives element/process/removal rate",y,y,y,y,y,,,
